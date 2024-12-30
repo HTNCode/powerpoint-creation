@@ -1,0 +1,5 @@
+aiohttp==3.11.11
+gpt_researcher==0.10.10
+openai==1.58.1
+python_pptx==1.0.2
+yarl==1.18.3
