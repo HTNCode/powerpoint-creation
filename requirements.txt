@@ -1,4 +1,4 @@
-aiohttp==3.12.14
+aiohttp==3.13.3
 gpt_researcher==0.10.10
 openai==1.58.1
 python_pptx==1.0.2
